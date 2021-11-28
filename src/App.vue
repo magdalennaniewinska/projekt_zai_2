@@ -80,7 +80,7 @@ export default {
           dostepny: true
         },
         {
-          id: 1,
+          id: 5,
           name: "Blender",
           cena: 379,
           opis: "Funkcja Turbo, system próżniowy",
@@ -91,7 +91,7 @@ export default {
           dostepny: true
         },
         {
-          id: 1,
+          id: 6,
           name: "Wyciskarka wolnoobrotowa",
           cena: 128.99,
           opis: "Cicha praca, łatwe czyszczenie",
@@ -102,7 +102,7 @@ export default {
           dostepny: false
         },
         {
-          id: 1,
+          id: 7,
           name: "Odkurzacz",
           cena: 128.99,
           opis: "Najcichszy a zarazem wysoce wydajny odkurzacz tradycyjny. W zestawie 5 wymiennych końowek oraz 2 worki.",
